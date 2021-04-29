@@ -1,0 +1,23 @@
+.form_pro{
+
+    padding-top: 0.2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+h2{
+    color: darkslateblue;
+    font-size: xx-large;
+    font-style: italic;
+}
+input, textarea, button{
+    margin: 5px 0 15px 0;
+}
+
+textarea{
+    font-size: 0.9rem;
+    width: 50%;
+    height: 10em;
+    display: flex;
+}

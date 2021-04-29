@@ -43,13 +43,18 @@ thead{
     color: white;
     text-align: center;
     
+    
 }
 
 
 #exito{
-    background-color: lightgreen;
+    background-color:darkgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: xx-large;
+    text-align: center;
+    
+    width: 100%;
+    
 }
 #header {
     margin:auto;
@@ -107,4 +112,11 @@ ul, ol {
 .nav li ul li ul {
     right:-140px;
     top:0px;
+}
+button{
+    margin: 5px 0 30px 0;
+}
+#icon{
+    font-size: 10rem;
+    text-align: center;
 }
